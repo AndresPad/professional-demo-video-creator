@@ -1,0 +1,46 @@
+{
+  "lines": [
+    {
+      "id": "n26",
+      "say": "The figures here are test data, so look at the shape rather than the numbers. This view shows the mean Attack Success Rate across the agents evaluated, how many evaluations have run, and whether those evaluations are completed cleanly.",
+      "duration": 13.35
+    },
+    {
+      "id": "n27",
+      "say": "It also shows the details behind every failure. The harm categories are ranked, so it is evident which one is driving a score, along with the individual attacks underneath it.",
+      "duration": 10.25
+    }
+  ],
+  "cues": [
+    {
+      "id": "n26",
+      "phrase": "mean Attack Success Rate",
+      "lead": 0.5
+    },
+    {
+      "id": "n26",
+      "phrase": "how many evaluations have run",
+      "lead": 0.5
+    },
+    {
+      "id": "n26",
+      "phrase": "whether those evaluations",
+      "lead": 0.5
+    },
+    {
+      "id": "n27",
+      "phrase": "The harm categories are ranked",
+      "lead": 1.4
+    },
+    {
+      "id": "n27",
+      "phrase": "which one is driving a score",
+      "lead": 0.5
+    },
+    {
+      "id": "n27",
+      "phrase": "the individual attacks underneath it",
+      "lead": 0.5
+    }
+  ]
+}
